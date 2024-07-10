@@ -95,7 +95,7 @@ I am a developer with a great passion for software and continuous learning.
 
 ## My projects
 
-- [Journal](https://www.dropbox.com/scl/fi/xe3gex5xz4z7jek8kk5ka/Journal-avec-flux-RSS.mp4?rlkey=n5ag18wpfy43sge67nsua5619&st=55iqtko0&dl=0) 07/2024 : Markdown journal of local activities, with its RSS feed
+- [Journal](https://www.dropbox.com/scl/fi/xe3gex5xz4z7jek8kk5ka/Journal-avec-flux-RSS.mp4?rlkey=n5ag18wpfy43sge67nsua5619&st=55iqtko0&dl=0) 07/2024 : GitHub Page of a local activity journal, with its RSS feed
 - [Capsa (PoC)](https://github.com/Lob2018/Capsa) 10/2021 : Electron billing application PoC
 - [Choux-Win (PoC)](https://github.com/Lob2018/Choux-Win) 08/2020 : Electron arcade game PoC
 - [Sudoku.exe](https://www.dropbox.com/scl/fi/c8l8zucndpwpqhib5qirz/sudoku.mp4?rlkey=2swt62gnzg8wqr24o2dq8bkm1&dl=0) 05/2019 : C# .NET WPF Sudoku game
