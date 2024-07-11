@@ -95,17 +95,19 @@ I am a developer with a great passion for software and continuous learning.
 
 ## My projects
 
-- [Journal](https://www.dropbox.com/scl/fi/xe3gex5xz4z7jek8kk5ka/Journal-avec-flux-RSS.mp4?rlkey=n5ag18wpfy43sge67nsua5619&st=55iqtko0&dl=0) 07/2024 : GitHub Page of a local activity journal, with its RSS feed
-- [Capsa (PoC)](https://github.com/Lob2018/Capsa) 10/2021 : Electron billing application PoC
-- [Choux-Win (PoC)](https://github.com/Lob2018/Choux-Win) 08/2020 : Electron arcade game PoC
-- [Sudoku.exe](https://www.dropbox.com/scl/fi/c8l8zucndpwpqhib5qirz/sudoku.mp4?rlkey=2swt62gnzg8wqr24o2dq8bkm1&dl=0) 05/2019 : C# .NET WPF Sudoku game
-- [Choux !](https://github.com/Lob2018/Choux#-bienvenue-sur-le-projet-choux) - [Demo](https://lob2018.github.io/Choux/) 12/2018 : HTML5 CSS JS arcade game
-- [Colibris](https://www.dropbox.com/scl/fi/4c8jolqswpno83uk33shu/Colibris.mp4?rlkey=cte9mhnkboh3as773top6op03&dl=0) 10/2018 : SEAN library application
-- [S2J.exe](https://www.dropbox.com/scl/fi/918mzk1ukexuinrffby33/S2J.mp4?rlkey=vv50zxc5d7cuv9zbvdz257dfq&dl=0) 02/2018 : C# .NET WPF SEO application
-- Hatclic.fr 11/2017 : VPS with Drupal website (closed)
-- [Groupe.exe](https://www.dropbox.com/scl/fi/qtmgaciwtdyxpin1ev723/Groupe.flv?rlkey=8mzcsjvebs0cs3e59flqr3eja&dl=0) 03/2016 : JavaFX file management application
-- [Crypt.exe](https://www.dropbox.com/scl/fi/z4iizl7mtt1m2je0h0zlc/crypt.flv?rlkey=uybc7ffjsy0j46gk62rdq54m6&dl=0) 08/2015 : JavaFX cryptographic application
-- [Meteo.exe](https://www.dropbox.com/scl/fi/ota64zizwcn4z41hodxqt/meteo.flv?rlkey=pdd9veashi9d355uq3izh7ok5&dl=0) 06/2015 : JavaFX weather application
+| Name and links | Date and description |
+|---|---|
+|  [Journal](https://lob2018.github.io/Journal/) - [Demo](https://youtu.be/T2iVhy5ls_E) - [Code](https://github.com/Lob2018/Journal) | 07/2024 : GitHub Page of a local activity journal, with its RSS feed |
+| [Capsa (PoC) code](https://github.com/Lob2018/Capsa) - [Demo](https://youtu.be/hHQAgmRx65o) | 10/2021 : Electron billing application PoC |
+| [Choux-Win (PoC) code](https://github.com/Lob2018/Choux-Win) | 08/2020 : Electron arcade game PoC |
+| [Sudoku demo](https://youtu.be/tXHTkp54CEE) | 05/2019 : C# .NET WPF Sudoku game |
+| [Choux ! code](https://github.com/Lob2018/Choux#-bienvenue-sur-le-projet-choux) - [Demo](https://lob2018.github.io/Choux/) | 12/2018 : HTML5 CSS JS arcade game |
+| [Colibris demo](https://youtu.be/PCodRYOROKQ) | 10/2018 : SEAN library application |
+| [S2J demo](https://youtu.be/dqXClDxxgks) | 02/2018 : C# .NET WPF SEO application |
+| Hatclic.fr | 11/2017 : Drupal website inside a Debian VPS (closed) |
+| [Groupe demo](https://youtu.be/Tb1LKNsBhp4) | 03/2016 : JavaFX file management application |
+| [Crypt demo](https://youtu.be/tSwJQ8Iy2Z4) | 08/2015 : JavaFX cryptographic application |
+| [Meteo demo](https://youtu.be/JU_X_yjgxwA) | 06/2015 : JavaFX weather application |
 
 ## Contact me
 
