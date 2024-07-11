@@ -99,9 +99,9 @@ I am a developer with a great passion for software and continuous learning.
 |---|---|
 |  [Journal](https://lob2018.github.io/Journal/) - [Demo](https://youtu.be/T2iVhy5ls_E) - [Code](https://github.com/Lob2018/Journal) | 07/2024 : GitHub Page of a local activity journal, with its RSS feed |
 | [Capsa (PoC) code](https://github.com/Lob2018/Capsa) - [Demo](https://youtu.be/hHQAgmRx65o) | 10/2021 : Electron billing application PoC |
-| [Choux-Win (PoC) code](https://github.com/Lob2018/Choux-Win) | 08/2020 : Electron arcade game PoC |
+| [Choux-Win (PoC) code](https://github.com/Lob2018/Choux-Win) - [Demo](https://youtu.be/kF24Mj7yoIc) | 08/2020 : Electron arcade game PoC |
 | [Sudoku demo](https://youtu.be/tXHTkp54CEE) | 05/2019 : C# .NET WPF Sudoku game |
-| [Choux ! code](https://github.com/Lob2018/Choux#-bienvenue-sur-le-projet-choux) - [Demo](https://lob2018.github.io/Choux/) | 12/2018 : HTML5 CSS JS arcade game |
+| [Choux ! code](https://github.com/Lob2018/Choux#-bienvenue-sur-le-projet-choux) - [Online demo](https://lob2018.github.io/Choux/) | 12/2018 : HTML5 CSS JS arcade game |
 | [Colibris demo](https://youtu.be/PCodRYOROKQ) | 10/2018 : SEAN library application |
 | [S2J demo](https://youtu.be/dqXClDxxgks) | 02/2018 : C# .NET WPF SEO application |
 | Hatclic.fr | 11/2017 : Drupal website inside a Debian VPS (closed) |
