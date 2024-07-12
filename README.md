@@ -113,4 +113,4 @@ I am a developer with a great passion for software and continuous learning.
 
 - [Email](mailto:LOB2018@DUCK.COM)
 - [LinkedIn](https://www.linkedin.com/in/yannlobjois/)
-- [YouTube channel](https://www.youtube.com/@Soft64-x8z)
+- [YouTube channel](https://www.youtube.com/@Soft64fr)
