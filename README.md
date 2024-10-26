@@ -97,15 +97,15 @@ I am a developer with a great passion for software and continuous learning.
 
 | Name and links | Date and description |
 |---|---|
-| [SudokuFX2024 (under development) code](https://github.com/Lob2018/SudoFX2024) | 04/2024 : SudokuFX2024 is a Sudoku game, made with JavaFX and Spring Boot |
-| [Journal](https://lob2018.github.io/Journal/) - [Demo](https://youtu.be/T2iVhy5ls_E) - [Code](https://github.com/Lob2018/Journal) | 07/2024 : GitHub Page of a local activity journal, with its RSS feed |
-| [Capsa (PoC) code](https://github.com/Lob2018/Capsa) - [Demo](https://youtu.be/hHQAgmRx65o) | 10/2021 : Electron billing application PoC |
-| [Choux-Win (PoC) code](https://github.com/Lob2018/Choux-Win) - [Demo](https://youtu.be/kF24Mj7yoIc) | 08/2020 : Electron arcade game PoC |
+| [SudokuFX2024 (work in progress...) code](https://github.com/Lob2018/SudoFX2024) | 04/2024 : 🔹 Work in progress... 🔹 SudokuFX2024 is a Sudoku game, made with JavaFX and Spring Boot |
+| [Journal](https://lob2018.github.io/Journal/) - [Demo](https://youtu.be/T2iVhy5ls_E) - [Code](https://github.com/Lob2018/Journal) | 07/2024 : 🔹 PoC 🔹 GitHub Page of a local activity journal, with its RSS feed |
+| [Capsa code](https://github.com/Lob2018/Capsa) - [Demo](https://youtu.be/hHQAgmRx65o) | 10/2021 : 🔹 PoC 🔹 Electron billing application |
+| [Choux-Win code](https://github.com/Lob2018/Choux-Win) - [Demo](https://youtu.be/kF24Mj7yoIc) | 08/2020 : 🔹 PoC 🔹 Electron arcade game |
 | [Sudoku demo](https://youtu.be/tXHTkp54CEE) | 05/2019 : C# .NET WPF Sudoku game |
-| [Choux ! code](https://github.com/Lob2018/Choux#-bienvenue-sur-le-projet-choux) - [Online demo](https://lob2018.github.io/Choux/) | 12/2018 : HTML5 CSS JS arcade game |
+| [Choux ! code](https://github.com/Lob2018/Choux#-bienvenue-sur-le-projet-choux) - [Online demo](https://lob2018.github.io/Choux/) | 12/2018 : 🔹 PoC 🔹 HTML5 CSS JS arcade game |
 | [Colibris demo](https://youtu.be/PCodRYOROKQ) | 10/2018 : SEAN library application |
 | [S2J demo](https://youtu.be/dqXClDxxgks) | 02/2018 : C# .NET WPF SEO application |
-| Hatclic.fr | 11/2017 : Drupal website in a Debian VPS (closed) |
+| Hatclic.fr | 11/2017 : 🔹 Closed 🔹 Drupal website in a Debian VPS |
 | [Groupe demo](https://youtu.be/Tb1LKNsBhp4) | 03/2016 : JavaFX file management application |
 | [Crypt demo](https://youtu.be/tSwJQ8Iy2Z4) | 08/2015 : JavaFX cryptographic application |
 | [Meteo demo](https://youtu.be/JU_X_yjgxwA) | 06/2015 : JavaFX weather application |
