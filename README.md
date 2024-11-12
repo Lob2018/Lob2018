@@ -26,35 +26,24 @@ I am a developer with a great passion for software and continuous learning.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6)
 ![Angular](https://img.shields.io/badge/Angular-d6002f)
 ![React](https://img.shields.io/badge/React-58c4dc)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7b11f8)
 ![Jest](https://img.shields.io/badge/Jest-9c4860)
 ![Cypress](https://img.shields.io/badge/Cypress-222535)
+![Mockoon](https://img.shields.io/badge/Mockoon-2b2f36)
 ![WCAG](https://img.shields.io/badge/WCAG-08396b)
-![AJAX](https://img.shields.io/badge/AJAX-438fc6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7b11f8)
 ![UI/UX Design](https://img.shields.io/badge/UI/UX_Design-212121)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-34C759)
+![Figma](https://img.shields.io/badge/Figma-65bfff)
+![Ilustrator](https://img.shields.io/badge/Ilustrator-ff9b00)
 
 ### Back-end
 
 ![Java](https://img.shields.io/badge/Java-0074bd)
 ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-72b545)
 ![Spring_Security](https://img.shields.io/badge/Spring_Security-6db33f)
-![JPA](https://img.shields.io/badge/JPA-F7DC6F)
+![Spring_Data](https://img.shields.io/badge/Spring_Data-6db33f)
 ![JUnit](https://img.shields.io/badge/JUnit-2ca467)
 ![Mockito](https://img.shields.io/badge/Mockito-76a43e)
-![Mockoon](https://img.shields.io/badge/Mockoon-2b2f36)
 ![Postman](https://img.shields.io/badge/Postman-ff6c37)
-![ORM](https://img.shields.io/badge/ORM-59666b)
-![Node.js](https://img.shields.io/badge/Node.js-59a946)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-34C759)
-
-### Desktop applications
-
-![Electron](https://img.shields.io/badge/Electron-9feaf9)
-![Java Swing](https://img.shields.io/badge/Java_Swing-ea2d2e)
-![Java FX](https://img.shields.io/badge/Java_FX-53829e)
-![C#](https://img.shields.io/badge/C%23-7052d4)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-34C759)
 
 ### Data persistence
 
@@ -66,32 +55,39 @@ I am a developer with a great passion for software and continuous learning.
 ![H2](https://img.shields.io/badge/H2-0000bb)
 ![HSQLDB](https://img.shields.io/badge/HSQLDB-98bde0)
 
-### Modeling methodologies
+### Desktop applications
 
-![UML](https://img.shields.io/badge/UML-003366)
-![Merise](https://img.shields.io/badge/Merise-663399)
+![Java FX](https://img.shields.io/badge/Java_FX-53829e)
+![Java Swing](https://img.shields.io/badge/Java_Swing-ea2d2e)
+![Electron](https://img.shields.io/badge/Electron-9feaf9)
 
-### Agile methodologies and practices
+### Software engineering
 
-![SCRUM](https://img.shields.io/badge/SCRUM-0047AB)
-![KANBAN](https://img.shields.io/badge/KANBAN-00CED1)
-![CI/CD](https://img.shields.io/badge/CI/CD-4B0082)
 ![BDD](https://img.shields.io/badge/BDD-228B22)
 ![TDD](https://img.shields.io/badge/TDD-FF0033)
-![User Stories](https://img.shields.io/badge/User_Stories-FF7F50)
-![Product Backlog](https://img.shields.io/badge/Product_Backlog-FFDB58)
-![Lean](https://img.shields.io/badge/Lean-CC5500)
+![UML](https://img.shields.io/badge/UML-003366)
+![Merise](https://img.shields.io/badge/Merise-663399)
+![CI/CD](https://img.shields.io/badge/CI/CD-4B0082)
+![Docker](https://img.shields.io/badge/Docker-1d63ed)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-34C759)
 
-### Software and environments
+### IDE
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-23a3ea)
 ![IntelliJ Idea](https://img.shields.io/badge/IntelliJ_Idea-fd3c32)
-![Eclipse](https://img.shields.io/badge/Eclipse-281c54)
-![SpringToolSuite4](https://img.shields.io/badge/SpringToolSuite4-7bbf49)
-![Git](https://img.shields.io/badge/Lean-f05539)
-![Docker](https://img.shields.io/badge/Docker-1d63ed)
-![Figma](https://img.shields.io/badge/Figma-65bfff)
-![Ilustrator](https://img.shields.io/badge/Ilustrator-ff9b00)
+
+### Versionning
+
+![Git](https://img.shields.io/badge/Git-f05539)
+![GitHub](https://img.shields.io/badge/GitHub-f05539)
+
+### Project management
+
+![SCRUM](https://img.shields.io/badge/SCRUM-0047AB)
+![KANBAN](https://img.shields.io/badge/KANBAN-00CED1)
+![User Stories](https://img.shields.io/badge/User_Stories-FF7F50)
+![Product Backlog](https://img.shields.io/badge/Product_Backlog-FFDB58)
+![Lean](https://img.shields.io/badge/Lean-CC5500)
 
 ## My projects
 
