@@ -90,7 +90,7 @@ I am a developer with a great passion for software and continuous learning.
 
 | Name and links | Date and description |
 |---|---|
-| [SudokuFX2024 code](https://github.com/Lob2018/SudoFX2024) | 04/2024 : 🚧 Work in progress... ▪ SudokuFX2024 is a Sudoku game, made with JavaFX and Spring Boot |
+| [SudokuFX2024 code](https://github.com/Lob2018/SudoFX2024) | 04/2024 : 🚧 Work in progress... ▪ Sudoku game with JavaFX and Spring Boot |
 | [Journal](https://lob2018.github.io/Journal/) - [Demo](https://youtu.be/T2iVhy5ls_E) - [Code](https://github.com/Lob2018/Journal) | 07/2024 : ▪ PoC ▪ GitHub Page of a local activity journal, with its RSS feed |
 | [Capsa code](https://github.com/Lob2018/Capsa) - [Demo](https://youtu.be/hHQAgmRx65o) | 10/2021 : ▪ PoC ▪ Electron billing application |
 | [Choux-Win code](https://github.com/Lob2018/Choux-Win) - [Demo](https://youtu.be/kF24Mj7yoIc) | 08/2020 : ▪ PoC ▪ Electron arcade game |
