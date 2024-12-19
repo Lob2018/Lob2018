@@ -17,6 +17,12 @@ I am a developer with a great passion for software and continuous learning.
 
 ### Front-End
 
+![HTML5](https://badgen.net/static/stars/★★★★☆)
+<a>
+    <img src="https://badgen.net/static/stars/★★★★☆" alt="HTML5">
+</a>
+
+
 [![HTML5](https://img.shields.io/badge/HTML5-dd4b25)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-056aaf)](#)
 [![Sass](https://img.shields.io/badge/Sass-cc6699)](#)
