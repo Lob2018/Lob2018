@@ -55,8 +55,6 @@ I am a developer with a great passion for software and continuous learning.
 
 ### Desktop applications
 
-![Java FX](https://img.shields.io/badge/Java_FX-53829e)
-
 [![Java FX](https://img.shields.io/badge/Java_FX-53829e)](#)
 [![Java Swing](https://img.shields.io/badge/Java_Swing-ea2d2e)](#)
 [![Electron](https://img.shields.io/badge/Electron-9feaf9)](#)
