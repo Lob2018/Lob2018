@@ -8,10 +8,10 @@ I am a developer with a great passion for software and continuous learning.
 
 ## Table of contents
 
-[![My skills](https://img.shields.io/badge/My_skills-28A745)](#my-skills)</br>
-[![My projects](https://img.shields.io/badge/My_projects-28A745)](#my-projects)</br>
-[![YouTube channel](https://img.shields.io/badge/YouTube_channel-FF0000)](https://www.youtube.com/@Soft64fr)</br>
-[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2)](https://www.linkedin.com/in/yannlobjois/)</br>
+[![My skills](https://img.shields.io/badge/My_skills-28A745)](#my-skills)
+[![My projects](https://img.shields.io/badge/My_projects-28A745)](#my-projects)
+[![YouTube channel](https://img.shields.io/badge/YouTube_channel-FF0000)](https://www.youtube.com/@Soft64fr)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2)](https://www.linkedin.com/in/yannlobjois/)
 
 ## My skills
 
