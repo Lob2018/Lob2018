@@ -45,29 +45,29 @@ I am a developer with a great passion for software and continuous learning.
 
 ### Data persistence
 
-[![SQL Server](https://img.shields.io/badge/SQL_Server-e52e27)](#data_persistence)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-396c94)](#data_persistence)
-[![MySQL](https://img.shields.io/badge/MySQL-00758f)](#data_persistence)
-[![MariaDB](https://img.shields.io/badge/MariaDB-c0765a)](#data_persistence)
-[![MongoDB](https://img.shields.io/badge/MongoDB-001e2b)](#data_persistence)
-[![H2](https://img.shields.io/badge/H2-0000bb)](#data_persistence)
-[![HSQLDB](https://img.shields.io/badge/HSQLDB-98bde0)](#data_persistence)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-e52e27)](#data-persistence)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-396c94)](#data-persistence)
+[![MySQL](https://img.shields.io/badge/MySQL-00758f)](#data-persistence)
+[![MariaDB](https://img.shields.io/badge/MariaDB-c0765a)](#data-persistence)
+[![MongoDB](https://img.shields.io/badge/MongoDB-001e2b)](#data-persistence)
+[![H2](https://img.shields.io/badge/H2-0000bb)](#data-persistence)
+[![HSQLDB](https://img.shields.io/badge/HSQLDB-98bde0)](#data-persistence)
 
 ### Desktop applications
 
-[![Java FX](https://img.shields.io/badge/Java_FX-53829e)](#desktop_applications)
-[![Java Swing](https://img.shields.io/badge/Java_Swing-ea2d2e)](#desktop_applications)
-[![Electron](https://img.shields.io/badge/Electron-9feaf9)](#desktop_applications)
+[![Java FX](https://img.shields.io/badge/Java_FX-53829e)](#desktop-applications)
+[![Java Swing](https://img.shields.io/badge/Java_Swing-ea2d2e)](#desktop-applications)
+[![Electron](https://img.shields.io/badge/Electron-9feaf9)](#desktop-applications)
 
 ### Software engineering
 
-[![BDD](https://img.shields.io/badge/BDD-228B22)](#software_engineering)
-[![TDD](https://img.shields.io/badge/TDD-FF0033)](#software_engineering)
-[![UML](https://img.shields.io/badge/UML-003366)](#software_engineering)
-[![Merise](https://img.shields.io/badge/Merise-663399)](#software_engineering)
-[![CI/CD](https://img.shields.io/badge/CI/CD-4B0082)](#software_engineering)
-[![Docker](https://img.shields.io/badge/Docker-1d63ed)](#software_engineering)
-[![Design Patterns](https://img.shields.io/badge/Design_Patterns-34C759)](#software_engineering)
+[![BDD](https://img.shields.io/badge/BDD-228B22)](#software-engineering)
+[![TDD](https://img.shields.io/badge/TDD-FF0033)](#software-engineering)
+[![UML](https://img.shields.io/badge/UML-003366)](#software-engineering)
+[![Merise](https://img.shields.io/badge/Merise-663399)](#software-engineering)
+[![CI/CD](https://img.shields.io/badge/CI/CD-4B0082)](#software-engineering)
+[![Docker](https://img.shields.io/badge/Docker-1d63ed)](#software-engineering)
+[![Design Patterns](https://img.shields.io/badge/Design_Patterns-34C759)](#software-engineering)
 
 ### IDE
 
@@ -81,11 +81,11 @@ I am a developer with a great passion for software and continuous learning.
 
 ### Project management
 
-[![SCRUM](https://img.shields.io/badge/SCRUM-0047AB)](#project_management)
-[![KANBAN](https://img.shields.io/badge/KANBAN-00CED1)](#project_management)
-[![User Stories](https://img.shields.io/badge/User_Stories-FF7F50)](#project_management)
-[![Product Backlog](https://img.shields.io/badge/Product_Backlog-FFDB58)](#project_management)
-[![Lean](https://img.shields.io/badge/Lean-CC5500)](#project_management)
+[![SCRUM](https://img.shields.io/badge/SCRUM-0047AB)](#project-management)
+[![KANBAN](https://img.shields.io/badge/KANBAN-00CED1)](#project-management)
+[![User Stories](https://img.shields.io/badge/User_Stories-FF7F50)](#project-management)
+[![Product Backlog](https://img.shields.io/badge/Product_Backlog-FFDB58)](#project-management)
+[![Lean](https://img.shields.io/badge/Lean-CC5500)](#project-management)
 
 ## My projects
 
