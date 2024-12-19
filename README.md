@@ -17,6 +17,8 @@ I am a developer with a great passion for software and continuous learning.
 
 ### Front-End
 
+<a>![HTML5](https://img.shields.io/badge/HTML5-dd4b25)</a>
+
 [![HTML5](https://img.shields.io/badge/HTML5-dd4b25)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-056aaf)](#)
 [![Sass](https://img.shields.io/badge/Sass-cc6699)](#)
