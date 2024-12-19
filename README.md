@@ -17,6 +17,11 @@ I am a developer with a great passion for software and continuous learning.
 
 ### Front-End
 
+![Build Status](https://badgen.net/badge/build/passing/green)
+![Build Status](https://badgers.space/api/badge/build/passing)
+![For The Badge](https://for-the-badge.com/images/badges/built-with-love.svg)
+
+
 [![HTML5](https://img.shields.io/badge/HTML5-dd4b25)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-056aaf)](#)
 [![Sass](https://img.shields.io/badge/Sass-cc6699)](#)
