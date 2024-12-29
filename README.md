@@ -91,15 +91,15 @@ I am a developer with a great passion for software and continuous learning.
 
 | Name and links | Date and description |
 |---|---|
-| [![SudokuFX2024 code](https://img.shields.io/badge/SudokuFX2024_code-4CAF50)](https://github.com/Lob2018/SudoFX2024) | 04/2024 : 🚧 Work in progress... ▪ JavaFX with Spring Boot Sudoku game |
-| [![Journal](https://img.shields.io/badge/Journal-2196F3)](https://lob2018.github.io/Journal/) [![Demo](https://img.shields.io/badge/Demo-FF0000)](https://youtu.be/T2iVhy5ls_E) [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/Journal) | 07/2024 : ▪ PoC ▪ GitHub Page of a local activity journal, with its RSS feed |
-| [![Capsa code](https://img.shields.io/badge/Capsa_code-4CAF50)](https://github.com/Lob2018/Capsa) [![Demo](https://img.shields.io/badge/Demo-FF0000)](https://youtu.be/hHQAgmRx65o) | 10/2021 : ▪ PoC ▪ Electron billing application |
-| [![Choux-Win code](https://img.shields.io/badge/Choux--Win_code-4CAF50)](https://github.com/Lob2018/Choux-Win) [![Demo](https://img.shields.io/badge/Demo-FF0000)](https://youtu.be/kF24Mj7yoIc) | 08/2020 : ▪ PoC ▪ Electron arcade game |
-| [![Sudoku demo](https://img.shields.io/badge/Sudoku_demo-FF0000)](https://youtu.be/tXHTkp54CEE) | 05/2019 : C# .NET WPF Sudoku game |
-| [![Choux ! code](https://img.shields.io/badge/Choux_!_code-4CAF50)](https://github.com/Lob2018/Choux#-bienvenue-sur-le-projet-choux) [![Online demo](https://img.shields.io/badge/Online_demo-2196F3)](https://lob2018.github.io/Choux/) | 12/2018 : ▪ PoC ▪ HTML5 CSS JS arcade game |
-| [![Colibris demo](https://img.shields.io/badge/Colibris_demo-FF0000)](https://youtu.be/PCodRYOROKQ) | 10/2018 : SEAN library application |
-| [![S2J demo](https://img.shields.io/badge/S2J_demo-FF0000)](https://youtu.be/dqXClDxxgks) | 02/2018 : C# .NET WPF SEO application |
-| Hatclic.fr | 11/2017 : ▪ Closed ▪ Drupal website in a Debian VPS |
-| [![Groupe demo](https://img.shields.io/badge/Groupe_demo-FF0000)](https://youtu.be/Tb1LKNsBhp4) | 03/2016 : JavaFX file management application |
-| [![Crypt demo](https://img.shields.io/badge/Crypt_demo-FF0000)](https://youtu.be/tSwJQ8Iy2Z4) | 08/2015 : JavaFX cryptographic application |
-| [![Meteo demo](https://img.shields.io/badge/Meteo_demo-FF0000)](https://youtu.be/JU_X_yjgxwA) | 06/2015 : JavaFX weather application |
+| <mark>&nbsp;SudokuFX2024&nbsp;</mark> [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/SudoFX2024) | 04/2024 : 🚧 Work in progress... ▪ JavaFX with Spring Boot Sudoku game |
+| <mark>&nbsp;Journal&nbsp;</mark> [![Online](https://img.shields.io/badge/Online-2196F3)](https://lob2018.github.io/Journal/)  [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/Journal) [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/T2iVhy5ls_E) | 07/2024 : ▪ PoC ▪ GitHub Page of a local activity journal, with its RSS feed |
+| <mark>&nbsp;Capsa&nbsp;</mark> [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/Capsa) [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/hHQAgmRx65o) | 10/2021 : ▪ PoC ▪ Electron billing application |
+| <mark>&nbsp;Choux-Win&nbsp;</mark> [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/Choux-Win) [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/kF24Mj7yoIc) | 08/2020 : ▪ PoC ▪ Electron arcade game |
+| <mark>&nbsp;SUdoku&nbsp;</mark> [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/tXHTkp54CEE) | 05/2019 : C# .NET WPF Sudoku game |
+| <mark>&nbsp;Choux !&nbsp;</mark>  [![Online](https://img.shields.io/badge/Online-2196F3)](https://lob2018.github.io/Choux/) [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/Choux#-bienvenue-sur-le-projet-choux) | 12/2018 : ▪ PoC ▪ HTML5 CSS JS arcade game |
+| <mark>&nbsp;Colibris&nbsp;</mark> [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/PCodRYOROKQ) | 10/2018 : SEAN library application |
+| <mark>&nbsp;S2J&nbsp;</mark> [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/dqXClDxxgks) | 02/2018 : C# .NET WPF SEO application |
+| <mark>&nbsp;Hatclic.fr&nbsp;</mark> | 11/2017 : ▪ Closed ▪ Drupal website in a Debian VPS |
+| <mark>&nbsp;Groupe&nbsp;</mark> [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/Tb1LKNsBhp4) | 03/2016 : JavaFX file management application |
+| <mark>&nbsp;Crypt&nbsp;</mark> [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/tSwJQ8Iy2Z4) | 08/2015 : JavaFX cryptographic application |
+| <mark>&nbsp;Meteo&nbsp;</mark> [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/JU_X_yjgxwA) | 06/2015 : JavaFX weather application |
