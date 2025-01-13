@@ -1,10 +1,6 @@
-<p align="center">
-  <img  width="30%" alt="IDE SVG" src="https://github.com/Lob2018/Lob2018/blob/main/ide-projects.svg">
-</p>
-
 # ▪ Hi, I'm Yann ▪ </br>
 
-I am a developer with a great passion for software and continuous learning.
+Passionate and ambitious software developer, I merge technical expertise and team spirit to anticipate future needs and implement suitable software solutions.
 
 ## Table of contents
 
