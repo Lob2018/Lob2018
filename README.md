@@ -87,7 +87,7 @@ Passionate and ambitious software developer, I merge technical expertise and tea
 
 | Name and links | Date and description |
 |---|---|
-| <mark>&nbsp;SudokuFX2024&nbsp;</mark> [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/SudoFX2024) | 04/2024 : 🚧 Work in progress... ▪ JavaFX with Spring Boot Sudoku game |
+| <mark>&nbsp;SudokuFX&nbsp;</mark> [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/SudoFX2024) | 04/2024 : 🚧 Work in progress... ▪ JavaFX with Spring Boot Sudoku game |
 | <mark>&nbsp;Journal&nbsp;</mark> [![Online](https://img.shields.io/badge/Online-2196F3)](https://lob2018.github.io/Journal/)  [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/Journal) [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/T2iVhy5ls_E) | 07/2024 : ▪ PoC ▪ GitHub Page of a local activity journal, with its RSS feed |
 | <mark>&nbsp;Capsa&nbsp;</mark> [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/Capsa) [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/hHQAgmRx65o) | 10/2021 : ▪ PoC ▪ Electron billing application |
 | <mark>&nbsp;Choux-Win&nbsp;</mark> [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/Choux-Win) [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/kF24Mj7yoIc) | 08/2020 : ▪ PoC ▪ Electron arcade game |
