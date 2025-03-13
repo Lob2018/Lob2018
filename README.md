@@ -87,15 +87,15 @@ I'm a passionate and ambitious software developer, I use my front-end technical 
 
 | Name | Links | Date | description |
 |---|---|---|---|
-| **SudokuFX** | [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/SudokuFX) | 04/2024 | 🚧 Work in progress... ▪ JavaFX with Spring Boot Sudoku game |
-| **Journal** | [![Online](https://img.shields.io/badge/Online-2196F3)](https://lob2018.github.io/Journal/)  [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/Journal) [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/T2iVhy5ls_E) | 07/2024 | ▪ PoC ▪ GitHub Page of a local activity journal, with its RSS feed |
-| **Capsa** | [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/Capsa) [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/hHQAgmRx65o) | 10/2021 | ▪ PoC ▪ Electron billing application |
-| **Choux_Win** | [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/Choux-Win) [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/kF24Mj7yoIc) | 08/2020 | ▪ PoC ▪ Electron arcade game |
+| **SudokuFX** | [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/SudokuFX) | 04/2024 | JavaFX with Spring Boot Sudoku game |
+| **Journal** | [![Online](https://img.shields.io/badge/Online-2196F3)](https://lob2018.github.io/Journal/)  [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/Journal) [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/T2iVhy5ls_E) | 07/2024 | GitHub Page of a local activity journal, with its RSS feed |
+| **Capsa** | [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/Capsa) [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/hHQAgmRx65o) | 10/2021 | Electron billing application |
+| **Choux_Win** | [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/Choux-Win) [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/kF24Mj7yoIc) | 08/2020 | Electron arcade game |
 | **Sudoku** | [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/tXHTkp54CEE) | 05/2019 | C# .NET WPF Sudoku game |
-| **Choux !** |  [![Online](https://img.shields.io/badge/Online-2196F3)](https://lob2018.github.io/Choux/) [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/Choux#-bienvenue-sur-le-projet-choux) | 12/2018 | ▪ PoC ▪ HTML5 CSS JS arcade game |
+| **Choux !** |  [![Online](https://img.shields.io/badge/Online-2196F3)](https://lob2018.github.io/Choux/) [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/Choux#-bienvenue-sur-le-projet-choux) | 12/2018 | HTML5 CSS JS arcade game |
 | **Colibris** | [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/PCodRYOROKQ) | 10/2018 | SEAN library application |
 | **S2J** | [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/dqXClDxxgks) | 02/2018 | C# .NET WPF SEO application |
-| **Hatclic.fr** | Closed | 11/2017 | Drupal website |
+| **Hatclic.fr** | Closed | 11/2017 | Drupal website hosted on a VPS |
 | **Groupe** | [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/Tb1LKNsBhp4) | 03/2016 | JavaFX file management application |
 | **Crypt** | [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/tSwJQ8Iy2Z4) | 08/2015 | JavaFX cryptographic application |
 | **Meteo** | [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/JU_X_yjgxwA) | 06/2015 | JavaFX weather application |
