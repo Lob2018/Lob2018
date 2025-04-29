@@ -87,7 +87,7 @@ I'm a passionate and ambitious software developer, I use my front-end technical 
 
 | Name | Links | Date | description |
 |---|---|---|---|
-| **SudokuFX** | [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/SudokuFX) | 04/2024 | JavaFX with Spring Boot Sudoku game |
+| **SudokuFX** | [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/SudokuFX) | 04/2024 | Cross-platform desktop application of a Sudoku game, developed in Java using JavaFX |
 | **Journal** | [![Online](https://img.shields.io/badge/Online-2196F3)](https://lob2018.github.io/Journal/)  [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/Journal) [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/T2iVhy5ls_E) | 07/2024 | GitHub Page of a local activity journal, with its RSS feed |
 | **Capsa** | [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/Capsa) [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/hHQAgmRx65o) | 10/2021 | Electron billing application |
 | **Choux_Win** | [![Code](https://img.shields.io/badge/Code-4CAF50)](https://github.com/Lob2018/Choux-Win) [![Video](https://img.shields.io/badge/Video-FF0000)](https://youtu.be/kF24Mj7yoIc) | 08/2020 | Electron arcade game |
