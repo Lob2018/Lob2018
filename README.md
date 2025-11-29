@@ -27,7 +27,7 @@ Passionate about software development, I strive to design software solutions tha
 
 | Name | Links | Date | Description |
 |---|---|---|---|
-| **CanScan** |  [![Code](https://img.shields.io/badge/Code-4CAF50?style=for-the-badge)](https://github.com/Lob2018/CanScan) [![Video](https://img.shields.io/badge/Video-FF0000?style=for-the-badge)](https://youtu.be/uJBtth4vPvE) | 11/2025 | Java Swing desktop application for Windows x64 that generates QR codes |
+| **CanScan** |  [![Code](https://img.shields.io/badge/Code-4CAF50?style=for-the-badge)](https://github.com/Lob2018/CanScan) [![Video](https://img.shields.io/badge/Video-FF0000?style=for-the-badge)](https://youtu.be/uJBtth4vPvE) | 11/2025 | Java Swing desktop application for Windows x64 and Linux AppImage that generates QR codes |
 | **Soft64.fr** | [![Online](https://img.shields.io/badge/Online-2196F3?style=for-the-badge)](https://soft64.fr) | 09/2025 | Website |
 | **SudokuFX** | [![Code](https://img.shields.io/badge/Code-4CAF50?style=for-the-badge)](https://github.com/Lob2018/SudokuFX) | 04/2024 | JavaFX cross-platform desktop application of a Sudoku game |
 | **Journal** | [![Online](https://img.shields.io/badge/Online-2196F3?style=for-the-badge)](https://lob2018.github.io/Journal/) [![Code](https://img.shields.io/badge/Code-4CAF50?style=for-the-badge)](https://github.com/Lob2018/Journal) [![Video](https://img.shields.io/badge/Video-FF0000?style=for-the-badge)](https://youtu.be/T2iVhy5ls_E) | 07/2024 | GitHub Page of a local activity journal, with its RSS feed |
