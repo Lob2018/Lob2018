@@ -1,6 +1,8 @@
-# ▪ Hi, I'm Yann ▪ </br>
+# █║ Yann ║█
 
-Passionate about software development, I strive to design software solutions that are effective, useful and easy to use.
+## **Software Developer**
+
+**Analytical Reasoning** ● **Adaptability** ● **Teamwork** ● **English B1+ (CEFR)**
 
 ## Contents
 
