@@ -10,7 +10,8 @@
 [![Projects](https://img.shields.io/badge/Projects-🖥️-0D47A1?style=for-the-badge)](#projects)<br>
 [![Website](https://img.shields.io/badge/Website-🌐_soft64.fr-0D47A1?style=for-the-badge)](https://soft64.fr)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yl2025/)<br>
-[![YouTube channel](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Soft64fr)
+[![YouTube channel](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Soft64fr)<br><br>
+[![Profile Views](https://komarev.com/ghpvc/?username=Lob2018&style=flat-square&color=lightgrey)](#contents)
 
 ## Skills
 
