@@ -30,9 +30,9 @@
 
 | Name | Links | Date | Description |
 |---|---|---|---|
+| **SudokuFX** | [![Code](https://img.shields.io/badge/Code-4CAF50?style=for-the-badge)](https://github.com/Lob2018/SudokuFX) [![Video](https://img.shields.io/badge/Video-FF0000?style=for-the-badge)](https://youtu.be/82_GDc7s1dY) | 04/2024 | JavaFX cross-platform desktop application of a Sudoku game |
 | **CanScan** |  [![Code](https://img.shields.io/badge/Code-4CAF50?style=for-the-badge)](https://github.com/Lob2018/CanScan) [![Video](https://img.shields.io/badge/Video-FF0000?style=for-the-badge)](https://youtu.be/uJBtth4vPvE) | 11/2025 | Java Swing desktop application for Windows x64 and Linux AppImage that generates QR codes |
 | **Soft64.fr** | [![Online](https://img.shields.io/badge/Online-2196F3?style=for-the-badge)](https://soft64.fr) | 09/2025 | Website |
-| **SudokuFX** | [![Code](https://img.shields.io/badge/Code-4CAF50?style=for-the-badge)](https://github.com/Lob2018/SudokuFX) | 04/2024 | JavaFX cross-platform desktop application of a Sudoku game |
 | **Journal** | [![Online](https://img.shields.io/badge/Online-2196F3?style=for-the-badge)](https://lob2018.github.io/Journal/) [![Code](https://img.shields.io/badge/Code-4CAF50?style=for-the-badge)](https://github.com/Lob2018/Journal) [![Video](https://img.shields.io/badge/Video-FF0000?style=for-the-badge)](https://youtu.be/T2iVhy5ls_E) | 07/2024 | GitHub Page of a local activity journal, with its RSS feed |
 | **Capsa** | [![Code](https://img.shields.io/badge/Code-4CAF50?style=for-the-badge)](https://github.com/Lob2018/Capsa) [![Video](https://img.shields.io/badge/Video-FF0000?style=for-the-badge)](https://youtu.be/hHQAgmRx65o) | 10/2021 | Electron billing application |
 | **Choux_Win** | [![Code](https://img.shields.io/badge/Code-4CAF50?style=for-the-badge)](https://github.com/Lob2018/Choux-Win) [![Video](https://img.shields.io/badge/Video-FF0000?style=for-the-badge)](https://youtu.be/kF24Mj7yoIc) | 08/2020 | Electron arcade game |
