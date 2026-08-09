@@ -30,7 +30,7 @@
 
 | Name | Links | Date | Description |
 |---|---|---|---|
-| **SudokuFX** | [![Code](https://img.shields.io/badge/Code-4CAF50?style=for-the-badge)](https://github.com/Lob2018/SudokuFX) [![Video](https://img.shields.io/badge/Video-FF0000?style=for-the-badge)](https://youtu.be/82_GDc7s1dY) | 08/2026 | Cross-platform JavaFX desktop application featuring a Sudoku game with a fluid interface |
+| **SudokuFX** | [![Code](https://img.shields.io/badge/Code-4CAF50?style=for-the-badge)](https://github.com/Lob2018/SudokuFX) [![Video](https://img.shields.io/badge/Video-FF0000?style=for-the-badge)](https://youtu.be/QAxPMZnJ-k0) | 08/2026 | Cross-platform JavaFX desktop application featuring a Sudoku game with a fluid interface |
 | **CanScan** |  [![Code](https://img.shields.io/badge/Code-4CAF50?style=for-the-badge)](https://github.com/Lob2018/CanScan) [![Video](https://img.shields.io/badge/Video-FF0000?style=for-the-badge)](https://youtu.be/uJBtth4vPvE) | 11/2025 | Java Swing desktop application for Windows x64 and Linux AppImage that generates QR codes |
 | **Soft64.fr** | [![Online](https://img.shields.io/badge/Online-2196F3?style=for-the-badge)](https://soft64.fr) | 09/2025 | Website |
 | **Journal** | [![Online](https://img.shields.io/badge/Online-2196F3?style=for-the-badge)](https://lob2018.github.io/Journal/) [![Code](https://img.shields.io/badge/Code-4CAF50?style=for-the-badge)](https://github.com/Lob2018/Journal) [![Video](https://img.shields.io/badge/Video-FF0000?style=for-the-badge)](https://youtu.be/T2iVhy5ls_E) | 07/2024 | GitHub Page of a local activity journal, with its RSS feed |
