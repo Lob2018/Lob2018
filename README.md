@@ -30,7 +30,7 @@
 
 | Name | Links | Date | Status | Description |
 |---|---|---|---|---|
-| **NativeVault** | [![Code](https://img.shields.io/badge/Code-4CAF50?style=for-the-badge)](https://github.com/Lob2018/native-vault) | 09/2026 | 🟢 | Library secure secret management in active user session OS native credential stores via Java 25+ FFM API |
+| **NativeVault** | [![Code](https://img.shields.io/badge/Code-4CAF50?style=for-the-badge)](https://github.com/Lob2018/native-vault) | 09/2026 | 🟢 | Library for secure secret management in active user session OS native credential stores via Java 25+ FFM API |
 | **SudokuFX** | [![Code](https://img.shields.io/badge/Code-4CAF50?style=for-the-badge)](https://github.com/Lob2018/SudokuFX) [![Video](https://img.shields.io/badge/Video-FF0000?style=for-the-badge)](https://youtu.be/FHtOizWpT-Y?cc_load_policy=1) | 08/2026 | 🟢 | Cross-platform JavaFX desktop application featuring a Sudoku game with a fluid interface |
 | **CanScan** |  [![Code](https://img.shields.io/badge/Code-4CAF50?style=for-the-badge)](https://github.com/Lob2018/CanScan) [![Video](https://img.shields.io/badge/Video-FF0000?style=for-the-badge)](https://youtu.be/uJBtth4vPvE?cc_load_policy=1) | 11/2025 | 🟢 | Java Swing desktop application for Windows x64 and Linux AppImage that generates QR codes |
 | **Soft64.fr** | [![Online](https://img.shields.io/badge/Online-2196F3?style=for-the-badge)](https://soft64.fr) | 09/2025 | 🟢 | Website |
